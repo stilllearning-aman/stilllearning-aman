@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stilllearning-aman
 - 👀 I’m interested in learning data science tools
-- 🌱 I’m currently learning RStudio
+- 🌱 I’m currently learning about Agentic AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shaarma.aman@gmail.com
 
